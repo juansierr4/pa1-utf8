@@ -1,0 +1,8 @@
+Valid ASCII: false
+Uppercased ASCII: "HI 🦁 GUYS 🐘"
+Length in bytes: 17
+Number of code points: 11
+Bytes per code point: 1 1 1 4 1 1 1 1 1 1 4
+Substring of the first 6 code points: "Hi 🦁 G"
+Code points as decimal numbers: 72 105 32 129409 32 71 117 121 115 32 128024
+Animal emojis: 🦁🐘
